@@ -1,1 +1,6 @@
-
+test:
+load * Inline [
+Kolom1,  Kolom2
+1,  a
+2,  b
+];
